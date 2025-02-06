@@ -39,4 +39,4 @@ Pacientes com cartão A (alta prioridade) são inseridos no início da fila.
 Pacientes com cartão V (baixa prioridade) são inseridos no final da fila.
 A prioridade sempre será respeitada, com pacientes de cartão A sendo chamados primeiro.
 
-Desenvolvido por Lucas D. MF
+Desenvolvido por Lucas de Moura Francisco.
